@@ -85,8 +85,8 @@ class _FiltersState extends State<Filters> {
                   },
                 ),
                 customSwitch(
-                  'Vegen',
-                  'Include only Vegen Free',
+                  'Vegan',
+                  'Include only Vegan Free',
                   veg,
                   (newvalue) {
                     setState(() {
